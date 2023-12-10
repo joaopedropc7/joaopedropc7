@@ -9,7 +9,7 @@
 
 ## My name is João Pedro
 
-- 👩‍💻 Java/Golang Developer
+- 👩‍💻 Java Developer
 - 🎓 Information technology student
 - 🌐 Web development
 
